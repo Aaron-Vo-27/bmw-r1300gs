@@ -80,6 +80,8 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.20.0",
+    "@cloudflare/vite-plugin": "^1.13.0",
+    "wrangler": "^4.40.0",
     "@types/node": "^22.16.5",
     "@types/pg": "^8.11.10",
     "@types/react": "^19.2.0",
